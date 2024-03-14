@@ -1,1 +1,1 @@
-# ArcGIS-Pro-3.x-Cookbook---Second-Edition
+# ArcGIS-Pro-3.x-Cookbook
