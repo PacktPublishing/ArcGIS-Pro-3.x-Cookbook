@@ -21,7 +21,7 @@ This book covers the following exciting features:
 If you feel this book is for you, get your [copy](https://www.amazon.com/ArcGIS-Pro-3-x-Cookbook-geospatial-ebook/dp/B0C3CT4HMC/ref=sr_1_1?crid=2AK2QB8CZNMTG&dib=eyJ2IjoiMSJ9.l9dz0J66AS1NSd9y1VvV1xrYIfdrz6AszEXE1gKjiC_kz3fZSYdBvPQtLicQq6hwjAyD8Jolmfq15XYQrrgg2v6at6hLECPXY5ZgtU0UK5m-gtcZl1a_1oPAWQ2btwNtqHePTa54Q-HjmPVtjqtE3VeS-cYmp3Ys-lFC15P1fTgyQAYByRkfbeWipxLt55I5us8H03j--p4n9xf4JWw2Um0ygVL_NMhRsWgSnooDHaI.leh5Teadgho90XqGjuFoXgBEEd_nOMsd5CroY4b4vOw&dib_tag=se&keywords=arcgis+pro+3.x+cookbook&qid=1711620199&sprefix=arcgis+pro+3.x+cookboo%2Caps%2C454&sr=8-1) today!
 
 ## Instructions and Navigations
-All of the data associated with this book is organized into folders. For example, Chapter01. The [Databases]() folder conatines all the databases required for this book.
+All of the data associated with this book is organized into folders. For example, Chapter01. The Databases folder conatines all the databases required for this book.
 Create a 'Student' folder in your 'C drive' and colne this repository inside the 'Student' folder for better understanding of the instructions outlined in the book. 
 
 
