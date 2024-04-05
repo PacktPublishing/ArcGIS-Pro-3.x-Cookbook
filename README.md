@@ -35,7 +35,7 @@ With the following software and hardware list you can implement all the steps ou
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1-14 | ArcGIS Pro 3.x (x=latest version) | Windows 10 or 11 - 64-bit |
-| 1-14 | 3D Analyst extension for ArcGIS Pr |    |
+| 1-14 | 3D Analyst extension for ArcGIS Pro |    |
 | 1-14 | ArcGIS Online |  |
 | 1-14 | Microsoft Excel or another spreadsheet program|   |
 
