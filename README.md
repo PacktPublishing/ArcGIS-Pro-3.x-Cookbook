@@ -21,11 +21,12 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/ArcGIS-Pro-3-x-Cookbook-geospatial-ebook/dp/B0C3CT4HMC/ref=sr_1_1?crid=2AK2QB8CZNMTG&dib=eyJ2IjoiMSJ9.l9dz0J66AS1NSd9y1VvV1xrYIfdrz6AszEXE1gKjiC_kz3fZSYdBvPQtLicQq6hwjAyD8Jolmfq15XYQrrgg2v6at6hLECPXY5ZgtU0UK5m-gtcZl1a_1oPAWQ2btwNtqHePTa54Q-HjmPVtjqtE3VeS-cYmp3Ys-lFC15P1fTgyQAYByRkfbeWipxLt55I5us8H03j--p4n9xf4JWw2Um0ygVL_NMhRsWgSnooDHaI.leh5Teadgho90XqGjuFoXgBEEd_nOMsd5CroY4b4vOw&dib_tag=se&keywords=arcgis+pro+3.x+cookbook&qid=1711620199&sprefix=arcgis+pro+3.x+cookboo%2Caps%2C454&sr=8-1) today!
 
+## Access the datasets from Google Drive
+If you encounter any issue while downloading the datasets from GitHub, you can also access the datasets from Google Drive by clicking this [link](https://drive.google.com/file/d/1wfEIHiF18uzbBeZ_AxKp8NDS101HB5Q1/view?usp=drive_link). Once the zip file is downloaded, create a folder named Student on your C Drive, then extract the data of the downloaded zip file into this student folder.
+
 ## Instructions and Navigations
 All the data associated with this book is organized into folders. For example, Chapter01. The Databases folder conatines all the databases required for this book.
 Create a Student folder in your C Drive and clone this repository inside the Student folder for better understanding of the instructions outlined in the book. 
-
-You can also access the data linked to this book on Google Drive by clicking this [link](https://drive.google.com/file/d/1wfEIHiF18uzbBeZ_AxKp8NDS101HB5Q1/view?usp=drive_link). Once the file is downloaded, create a folder named Student on your C Drive, then extract the data of the downloaded zip file into this student folder.
 
 **Following is what you need for this book:**
 This book is for GIS professionals, architects, specialists, analysts, and technicians looking to learn how to use ArcGIS Pro and the powerful data editing, analysis, and creation tools it offers. Those who are just getting started with ArcGIS Pro and wish to expand their skills, as well as those who want to migrate to this platform will also find this book helpful. While some basic GIS experience is helpful, it’s not a prerequisite.
