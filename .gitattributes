@@ -1,3 +1,93 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75407e3de7ebcde34130b495765a82b8aeafe1f79dc23b33f62870c231a92d34
-size 2138
+## Unity ##
+
+*.cs diff=csharp text
+*.cginc text
+*.shader text
+
+*.mat merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+*.physicMaterial merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
+
+
+## git-lfs ##
+
+#Image
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.ai filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+
+#Audio
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+
+#Video
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+
+#3D Object
+*.FBX filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+
+#ETC
+*.a filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
+*.aif filter=lfs diff=lfs merge=lfs -text
+*.ttf filter=lfs diff=lfs merge=lfs -text
+*.rns filter=lfs diff=lfs merge=lfs -text
+*.reason filter=lfs diff=lfs merge=lfs -text
+*.lxo filter=lfs diff=lfs merge=lfs -text
+*.bc filter=lfs diff=lfs merge=lfs -text
+
+#Database
+*.atx filter=lfs diff=lfs merge=lfs -text
+*.freelist filter=lfs diff=lfs merge=lfs -text
+*.gdbindexes filter=lfs diff=lfs merge=lfs -text
+*.gdbtable filter=lfs diff=lfs merge=lfs -text
+*.horizon filter=lfs diff=lfs merge=lfs -text
+*.spx filter=lfs diff=lfs merge=lfs -text
+*.xml filter=lfs diff=lfs merge=lfs -text
+*.adf filter=lfs diff=lfs merge=lfs -text
+*.stylx filter=lfs diff=lfs merge=lfs -text
+*.aprx filter=lfs diff=lfs merge=lfs -text
+*.mapx filter=lfs diff=lfs merge=lfs -text
+*.tbx filter=lfs diff=lfs merge=lfs -text
+*.lyrx filter=lfs diff=lfs merge=lfs -text
+*.gdbtablx filter=lfs diff=lfs merge=lfs -text
+*.cfs filter=lfs diff=lfs merge=lfs -text
+*.sl filter=lfs diff=lfs merge=lfs -text
+*.del filter=lfs diff=lfs merge=lfs -text
+*.cfe filter=lfs diff=lfs merge=lfs -text
+*.gen filter=lfs diff=lfs merge=lfs -text
+*.abrx filter=lfs diff=lfs merge=lfs -text
+*.atbx filter=lfs diff=lfs merge=lfs -text
+*.sid filter=lfs diff=lfs merge=lfs -text
+*.sdw filter=lfs diff=lfs merge=lfs -text
+*.prj filter=lfs diff=lfs merge=lfs -text
+*.wld filter=lfs diff=lfs merge=lfs -text
+*.cpg filter=lfs diff=lfs merge=lfs -text
+*.dbf filter=lfs diff=lfs merge=lfs -text
+*.sbn filter=lfs diff=lfs merge=lfs -text
+*.shx filter=lfs diff=lfs merge=lfs -text
+*.dwj filter=lfs diff=lfs merge=lfs -text
+*.sbx filter=lfs diff=lfs merge=lfs -text
+*.tbx filter=lfs diff=lfs merge=lfs -text
+*.si filter=lfs diff=lfs merge=lfs -text
+
