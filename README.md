@@ -19,7 +19,7 @@ This book covers the following exciting features:
 * Perform proximity analysis and map clusters with hotspot analysis
 * Conduct advanced 3D analysis with 3D Analyst extension
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/ArcGIS-Pro-3-x-Cookbook-geospatial-ebook/dp/B0C3CT4HMC/ref=sr_1_1?crid=2AK2QB8CZNMTG&dib=eyJ2IjoiMSJ9.l9dz0J66AS1NSd9y1VvV1xrYIfdrz6AszEXE1gKjiC_kz3fZSYdBvPQtLicQq6hwjAyD8Jolmfq15XYQrrgg2v6at6hLECPXY5ZgtU0UK5m-gtcZl1a_1oPAWQ2btwNtqHePTa54Q-HjmPVtjqtE3VeS-cYmp3Ys-lFC15P1fTgyQAYByRkfbeWipxLt55I5us8H03j--p4n9xf4JWw2Um0ygVL_NMhRsWgSnooDHaI.leh5Teadgho90XqGjuFoXgBEEd_nOMsd5CroY4b4vOw&dib_tag=se&keywords=arcgis+pro+3.x+cookbook&qid=1711620199&sprefix=arcgis+pro+3.x+cookboo%2Caps%2C454&sr=8-1) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/ArcGIS-Pro-3-x-Cookbook-geospatial/dp/1837631700/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.l9dz0J66AS1NSd9y1VvV1xrYIfdrz6AszEXE1gKjiC_kz3fZSYdBvPQtLicQq6hwjAyD8Jolmfq15XYQrrgg2v6at6hLECPXY5ZgtU0UK5m-gtcZl1a_1oPAWQ2btwNtqHePTa54Q-HjmPVtjqtE3VeS-cYmp3Ys-lFC15P1fTgyQAYByRkfbeWipxLt55I5us8H03j--p4n9xf4JWw2Um0ygVL_NMhRsWgSnooDHaI.leh5Teadgho90XqGjuFoXgBEEd_nOMsd5CroY4b4vOw&qid=1711620199&sr=8-1) today!
 
 ## Access the datasets from Google Drive
 If you encounter any issue while downloading the datasets from GitHub, you can also access the datasets from Google Drive by clicking this [link](https://drive.google.com/file/d/1wfEIHiF18uzbBeZ_AxKp8NDS101HB5Q1/view?usp=drive_link). Once the zip file is downloaded, create a folder named Student on your C Drive, then extract the data of the downloaded zip file into this student folder.
