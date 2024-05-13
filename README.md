@@ -40,8 +40,7 @@ With the following software and hardware list you can implement all the steps ou
 | 1-14 | ArcGIS Online |  |
 | 1-14 | Microsoft Excel or another spreadsheet program|   |
 
-Chapter 1 of this book will provide you with the system requirements to run ArcGIS Pro and walk you through the process of checking your system to verify that it meets those requirements,
-chapter wise software list is availabe [here](https://github.com/PacktPublishing/ArcGIS-Pro-3.x-Cookbook/blob/main/Software%20Hardware%20List.pdf)
+Chapter 1 of this book will provide you with the system requirements to run ArcGIS Pro and walk you through the process of checking your system to verify that it meets those requirements.
 
 ## Related products
 * Geospatial Analysis with SQL [[Packt]](https://www.packtpub.com/product/geospatial-analysis-with-sql/9781835083147?_gl=1*1xiot15*_gcl_au*MTc5MDQxMTI0LjE3MDQ4NzY0MzQ.*_ga*MTI3MTI1MDc3LjE3MDQ4NzY0MzU.*_ga_Q4R8G7SJDK*MTcxMjIxOTQxNC4yOC4xLjE3MTIyMjc5NTguNTAuMC4w) [[Amazon]](https://www.amazon.com/Geospatial-Analysis-SQL-hands-performing/dp/1835083145/ref=sr_1_1?crid=1JEWEC6RJS7ZA&dib=eyJ2IjoiMSJ9.JnzVk1Ql2Jx5Oicl9-NbagbjtZkzh-FT_JoNNQUAeN-KlFqdU7jhIJpoht4DRfFX75m3M0Vev243JpN2vqmHA6TBEfhJmO1f5A2ex8WAsMyB18Qn5DW3dKoG1Ql7uLTdh-YIdHX3id6kz8lbe5O6X9hJ2xmeSfceAlzg6TfvAB_51_TFOnVSI1tF7OMeLZ-miTFO8e1eNdRAWn6kq8W-SO52XlUPuLPHn8-9EBSqWjU.MUnS8Zt2mFQgi1U2wSW_DjmANyVcv9v7d3dVQRIcSlQ&dib_tag=se&keywords=Geospatial+Analysis+with+SQL&qid=1712227891&sprefix=geospatial+analysis+with+sql%2Caps%2C336&sr=8-1)
