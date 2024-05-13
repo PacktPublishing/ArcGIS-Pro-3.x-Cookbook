@@ -25,6 +25,8 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/ArcGIS-
 If you encounter any issue while downloading the datasets from GitHub, you can also access the datasets from Google Drive by clicking this [link](https://drive.google.com/file/d/1wfEIHiF18uzbBeZ_AxKp8NDS101HB5Q1/view?usp=drive_link). Once the zip file is downloaded, create a folder named Student on your C Drive, then extract the data of the downloaded zip file into this student folder.
 
 ## Instructions and Navigations
+We recommend cloning the repository instead of downloading the Zip file. This way, all the datasets tracked through Git LFS will be included properly. If you download the Zip file, it might not include those files tracked by LFS. Thank you for your understanding!
+
 All the data associated with this book is organized into folders. For example, Chapter01. The Databases folder conatines all the databases required for this book.
 Create a Student folder in your C Drive and clone this repository inside the Student folder for better understanding of the instructions outlined in the book. 
 
