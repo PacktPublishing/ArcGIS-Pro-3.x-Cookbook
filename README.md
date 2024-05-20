@@ -29,9 +29,11 @@ We recommend cloning the repository instead of downloading the Zip file. This wa
 
 All the data associated with this book is organized into folders. For example, Chapter01. The Databases folder conatines all the databases required for this book.
 Create a Student folder in your C Drive and clone this repository inside the Student folder for better understanding of the instructions outlined in the book. 
+## Errata
+* page xvii(Preface: Download the example code files): **The installation instrictions for the datasets** _should be_ **You can either download the datasets from [Google Drive](https://drive.google.com/file/d/1wfEIHiF18uzbBeZ_AxKp8NDS101HB5Q1/view) or clone the repository. Since the datasets are large and tracked by Git LFS, downloading the zip file won't include the tracked files.**
 
 **Following is what you need for this book:**
-This book is for GIS professionals, architects, specialists, analysts, and technicians looking to learn how to use ArcGIS Pro and the powerful data editing, analysis, and creation tools it offers. Those who are just getting started with ArcGIS Pro and wish to expand their skills, as well as those who want to migrate to this platform will also find this book helpful. While some basic GIS experience is helpful, it’s not a prerequisite.
+This book is for GIS professionals, architects, specialists, analysts, and technicians looking to learn how to use ArcGIS Pro and the powerful data editing, analysis, and creation tools it offers. Those who are just getting started with ArcGIS Pro and wish to expand their skills, as well as those who want to migrate to this platform will also find this book helpful. While some basic GIS experience is helpful, it’s not a prerequisite
 
 With the following software and hardware list you can implement all the steps outlined in the book (Chapter 1-14).
 ## Software and Hardware List
